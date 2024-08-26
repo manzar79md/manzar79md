@@ -23,17 +23,21 @@ Innovative Web Developer with expertise in Data Analysis and IoT.
 
 ## 🎓 Education
 
-**Bachelor Of Technology (B.Tech), Computer Science**  
-*Dr. Lankapalli Bullayya College of Engineering(AU), Visakhapatnam, AP*  
-*Expected Completion:* May 2025
+**Bachelor Of Technology (B.Tech)**          
+***Dr. Lankapalli Bullayya College of Engineering **(Andhra University)*****            
+Visakhapatnam, AP               
+Computer Science Engineer (CSE)             
+*Will Complete:* May 2025
 
-**Higher Secondary Education (Class XII), CBSE**  
-*Sri Chaitanya Vidya Niketan, Visakhapatnam, AP*  
+**Higher Secondary Education (Class XII)**              
+***Sri Chaitanya Vidya Niketan **(CBSE)*****        
+Visakhapatnam, AP               
+**Subjects:** Physics, Chemistry, Mathematics & Informatics Practices            
 *Completed:* August 2021  
-**Subjects:** Physics, Chemistry, Mathematics & Informatics Practices
 
-**Secondary Education (Class X), CBSE**  
-*Sri Krishna Vidya Mandir, Visakhapatnam, AP*  
+**Secondary Education (Class X)**       
+***Sri Krishna Vidya Mandir **(CBSE)*****           
+Visakhapatnam, AP          
 *Completed:* June 2019
 
 ## 🏆 Certifications
