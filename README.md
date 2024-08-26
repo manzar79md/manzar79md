@@ -1,5 +1,4 @@
-![dev Manzar](![Dp](https://github.com/user-attachments/assets/4e8985f6-7ee4-495a-80dd-eda5e214a153)
-.png)
+(![Dp](https://github.com/user-attachments/assets/4e8985f6-7ee4-495a-80dd-eda5e214a153)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Manzar Nizam
 ====================================================================================================================================
