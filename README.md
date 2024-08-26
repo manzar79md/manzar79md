@@ -1,9 +1,19 @@
-# 👋 Md Manzar Nizam
+![dev Manzar](![Dp](https://github.com/user-attachments/assets/4e8985f6-7ee4-495a-80dd-eda5e214a153)
+.png)
 
-![Header Image](https://raw.githubusercontent.com/manzar79md/manzar79md/main/assets/header.png)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Manzar Nizam
+====================================================================================================================================
 
-**Email:** [manzar79md@gmail.com](mailto:manzar79md@gmail.com)  
-**Location:** Visakhapatnam, India
+Fullstack Developer
+-------------------
+
+👨‍💻 DevOps Engineer, Full-stack Web & Data Analyst 🌐📱✨ Passionate about crafting immersive digital experiences and building innovative solutions across multiple platforms. 🚀🌟
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [mailmanzar79md@gmail.com](mailto:manzar79md@gmail.com)
+* 🧠  I'm learning Python ,React, Node.js and Mongodb
+* 🤝  I'm open to collaborating on LeanHive
+* ⚡  Enthusiastic about staying updated with industry trends and continuously learning new technologies to expand my skill set.
 
 ## 🛠️ Skills
 
@@ -69,9 +79,9 @@ Acquired comprehensive skills in data engineering through the Employability Skil
 ![Hindi](https://img.shields.io/badge/-Hindi-ff9933?style=flat) ![English](https://img.shields.io/badge/-English-0077B5?style=flat) ![Urdu](https://img.shields.io/badge/-Urdu-006747?style=flat) ![Telugu](https://img.shields.io/badge/-Telugu-ffcc00?style=flat)
 
 - **Hindi:** Native
-- **English:** Advanced (C1)
-- **Urdu:** Upper Intermediate (B2)
-- **Telugu:** Beginner (A1)
+- **English:** Advanced
+- **Urdu:** Upper Intermediate
+- **Telugu:** Beginner
 
 ## 📜 Declaration
 I hereby declare that the above information is true to the best of my knowledge.
