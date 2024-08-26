@@ -24,7 +24,7 @@ Fullstack Developer
 ## 🎓 Education
 
 **Bachelor Of Technology (B.Tech), Computer Science**  
-*Dr. Lankapalli Bullayya College of Engineering, Visakhapatnam, AP*  
+*Dr. Lankapalli Bullayya College of Engineering(AU), Visakhapatnam, AP*  
 *Expected Completion:* May 2025
 
 **Higher Secondary Education (Class XII), CBSE**  
