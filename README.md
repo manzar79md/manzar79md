@@ -3,10 +3,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Manzar Nizam
 ====================================================================================================================================
 
-Fullstack Developer
--------------------
+Innovative Web Developer with expertise in Data Analysis and IoT.
+----------------------------------------------------------------
 
-👨‍💻 DevOps Engineer, Full-stack Web & Data Analyst 🌐📱✨ Passionate about crafting immersive digital experiences and building innovative solutions across multiple platforms. 🚀🌟
+👨‍💻 Web Developer, Data Analyst & IoT 🌐📱✨ Passionate about crafting immersive digital experiences and building innovative solutions across multiple platforms. 🚀🌟
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mailmanzar79md@gmail.com](mailto:manzar79md@gmail.com)
