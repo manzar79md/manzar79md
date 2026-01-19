@@ -1,108 +1,129 @@
-![Github](https://github.com/user-attachments/assets/2c1a4d74-d0ac-47c7-998a-49c8764b586d)
+# Hi 👋, I'm Md Manzar Nizam
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Manzar Nizam
-====================================================================================================================================
+🎓 Computer Science Graduate | 🐍 Python Developer | 📊 Data Analyst | 🏢 SAP ERP Trainee  
 
-Innovative Web Developer with expertise in Data Analysis and IoT.
-----------------------------------------------------------------
-
-👨‍💻 Web Developer, Data Analyst & IoT 🌐📱✨ Passionate about crafting immersive digital experiences and building innovative solutions across multiple platforms. 🚀🌟
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [mailmanzar79md@gmail.com](mailto:manzar79md@gmail.com)
-* 🧠  I'm learning Python ,React, Node.js and Mongodb
-* 🤝  I'm open to collaborating on LeanHive
-* ⚡  Enthusiastic about staying updated with industry trends and continuously learning new technologies to expand my skill set.
-
-## 🛠️ Skills
-
-- **Programming Languages:** C, C++, Java, Python, SQL
-- **Technologies:** IoT, Embedded Systems, Front-End Development, Data Base Management System (DBMS)
-- **Tools:** Figma, Microsoft Office, AWS on ML Ops
-- **Analytical Skills**
-
-## 🎓 Education
-
-**Bachelor Of Technology (B.Tech)**          
-***Dr. Lankapalli Bullayya College of Engineering **(Andhra University)*****            
-Visakhapatnam, AP               
-Computer Science Engineer (CSE)             
-*Will Complete:* May 2025
-
-**Higher Secondary Education (Class XII)**              
-***Sri Chaitanya Vidya Niketan **(CBSE)*****        
-Visakhapatnam, AP               
-**Subjects:** Physics, Chemistry, Mathematics & Informatics Practices            
-*Completed:* August 2021  
-
-**Secondary Education (Class X)**       
-***Sri Krishna Vidya Mandir **(CBSE)*****           
-Visakhapatnam, AP          
-*Completed:* June 2019
-
-## 🏆 Certifications
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-- Employability Skills through Wadhwani Foundation
-- Python course through GUVI
-- AWS on ML Ops through Pantech e Learning
-- Data Analysis using Excel through Great Learning
-- Geoprocessing using Python through IIRS, ISRO
-- Software Testing through Great Learning
-- Career Edge - Young Professional through TCS iON
-
-## 🏅 Training
-
-**L&T Edutech**  
-Acquired comprehensive skills in data engineering through the Employability Skilling Program (ESP). Proficient in Python, data analysis, visualization, and utilizing libraries such as NumPy, Pandas, SQL, AI, ML, DL, Tableau, HDFS, and others.
-
-## 💼 Projects
-
-### 🚀 TechnoHacks EduTech Internship
-- Developed a comprehensive company website and personal portfolio website
-- Built a functional clone of a popular streaming platform (e.g., Netflix)
-
-### 🛠️ Model Expo
-- Led a team to develop a Visually Impaired Assistive Device using Embedded Systems (Dr. Lankapalli Bullayya College of Engineering, 2024).
-
-### 🎮 Game Development Summer Camp (Google Development Student Clubs)
-- Led teaching sessions at the Game Development Summer Camp.
-
-### 👩‍💻 Digital Housewives Computer Awareness Training Program (Computer Society of India Student Branch)
-- Served as an instructor for the Digital Housewives Computer Awareness Training Program (community service initiative).
-
-## 🌐 Websites, Portfolios, and Profiles
-
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-manzar-nizam-48529b289)
-- **GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/manzar79md)
-
-## 🗣️ Languages
-
-![Hindi](https://img.shields.io/badge/-Hindi-ff9933?style=flat) ![English](https://img.shields.io/badge/-English-0077B5?style=flat) ![Urdu](https://img.shields.io/badge/-Urdu-006747?style=flat) ![Telugu](https://img.shields.io/badge/-Telugu-ffcc00?style=flat)
-
-- **Hindi:** Native
-- **English:** Advanced
-- **Urdu:** Upper Intermediate
-- **Telugu:** Beginner
-
-## 📜 Declaration
-I hereby declare that the above information is true to the best of my knowledge.
+I am a Computer Science graduate with hands-on experience in Python development, data analysis, and basic full-stack web technologies.  
+Currently undergoing **SAP ERP software training at Jamia Millia Islamia, New Delhi**.  
+I am actively seeking **entry-level roles or internships** where I can apply my skills, learn from real-world projects, and grow professionally.
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manzar79md&label=Profile%20views&color=0e75b6&style=flat" alt="manzar79md" /> </p>
+## 🔹 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manzar79md" alt="manzar79md" /></a> </p>
+- 📍 Based in India (Delhi)
+- 📧 Email: **manzar79md@gmail.com**
+- 💼 Actively seeking opportunities (Immediate Joiner)
+- 🧠 Currently learning: **SAP ERP, Advanced Python, Data Analytics**
+- 🤝 Open to collaboration on Python, Data Analysis, and IoT-based projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/md-manzar-nizam-48529b289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/md-manzar-nizam-48529b289" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manzar79md&show_icons=true&locale=en&layout=compact" alt="manzar79md" /></p>
+### 💻 Programming
+- Python
+- SQL
+- Java (Basic)
+- JavaScript (Basic)
+- C / C++
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manzar79md&show_icons=true&locale=en" alt="manzar79md" /></p>
+### 📊 Data Analysis & ML
+- Pandas
+- NumPy
+- Matplotlib
+- Tableau
+- Excel
+- Scikit-learn (Basic)
+
+### 🌐 Web Technologies
+- React (Basic)
+- Node.js
+- Express.js
+- MongoDB
+- HTML
+- CSS
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Postman
+- Streamlit
+
+### 🧠 Core Concepts
+- Problem Solving
+- Debugging
+- Data Handling
+- Basic Machine Learning
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Engineering**  
+Andhra University, Visakhapatnam  
+📅 *2021 – 2025*  
+📊 CGPA: **7.13 / 10**
+
+**SAP ERP Software Training (Ongoing)**  
+Jamia Millia Islamia, New Delhi  
+📅 *Jan 2026 – Apr 2026*  
+📘 ERP fundamentals, business processes, enterprise systems
+
+---
+
+## 💼 Projects
+
+### 🏥 Smart Health Monitoring System
+- Developed a real-time patient monitoring application using **Python & Streamlit**
+- Implemented basic ML classification for health severity prediction
+- Integrated automated email alerts for medical staff
+- **Tech Stack:** Python, Streamlit, Pandas, Scikit-learn
+
+---
+
+### 📈 Customer Purchase Behavior Analysis
+- Analyzed large datasets using Python for insights and visualization
+- Built interactive dashboards using **Tableau**
+- Created basic predictive models for trend analysis
+- **Tech Stack:** Python, Pandas, Matplotlib, Tableau
+
+---
+
+### ♿ Visually Impaired Assistant IoT Device
+- Designed an assistive IoT device using **Arduino & ultrasonic sensors**
+- Implemented real-time obstacle detection using C++
+- Integrated buzzer and vibration-based feedback
+- **Tech Stack:** C++, Embedded Systems, IoT
+
+---
+
+## 📜 Certifications & Training
+
+- Python Programming – **GUVI**
+- Geoprocessing Using Python – **ISRO (IIRS)**
+- AWS in MLOps – **Pantech E-Learning**
+- Employability Skills Program – **Wadhwani Foundation**
+- Data Analysis using Excel – **Great Learning**
+- Career Edge – Young Professional – **TCS iON**
+
+---
+
+## 🗣️ Languages
+
+- Hindi (Native)
+- English (Professional)
+- Urdu (Intermediate)
+- Bhojpuri
+- Telugu (Basic)
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/md-manzar-nizam-48529b289
+- 💻 GitHub: https://github.com/manzar79md
+- 📧 Email: manzar79md@gmail.com
+
+---
+
+⭐ *Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me!*
