@@ -11,7 +11,7 @@ I am actively seeking **entry-level roles or internships** where I can apply my 
 ## 🔹 About Me
 
 - 📍 Based in India (Delhi)
-- 📧 Email: **manzar79md@gmail.com**
+- 📧 Email: **manzarnizammd@gmail.com**
 - 💼 Actively seeking opportunities (Immediate Joiner)
 - 🧠 Currently learning: **SAP ERP, Advanced Python, Data Analytics**
 - 🤝 Open to collaboration on Python, Data Analysis, and IoT-based projects
