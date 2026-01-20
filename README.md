@@ -120,9 +120,9 @@ Jamia Millia Islamia, New Delhi
 
 ## 🌐 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/md-manzar-nizam-48529b289
+- 🔗 LinkedIn: https://www.linkedin.com/in/md-manzar-nizam
 - 💻 GitHub: https://github.com/manzar79md
-- 📧 Email: manzar79md@gmail.com
+- 📧 Email: manzarnizammd@gmail.com
 
 ---
 
